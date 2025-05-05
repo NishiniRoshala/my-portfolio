@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>HTMLMP</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+</head>
+<body>
+
+<!--Navigation-->
+<nav>
+    <a href="">Home </a>
+    <a href="">About Me </a>
+    <a href=""> Projects </a>
+    <a href=""> Assignment </a>
+    <a href=""> Gallery </a>
+    <a href=""> Contact Me </a>
+</nav>
+
+<!--Header-->
+<header>
+    <h2>Hello, I'm </h2>
+    <h1>Nishini Roshala</h1>
+    <h4>UX UI Designer | Web Designer</h4>
+
+    <!--left side-->
+    <img src="assests/images/Adobe Express - file.png" title="Profisional" width="100">
+
+</header>
+
+<!--About Section-->
+
+
+<section>
+
+    <h2>About Me</h2>
+
+    <!--left side-->
+    <img src="assests/images/1725886350133.png" title="Profisional" width="100">
+
+    <!--right side-->
+    <h4>I’m a Software Engineering student at the
+        Institute of Java and Software Engineering (IJSE). </h4>
+</section>
+
+
+<!--Project Section-->
+
+<section>
+
+    <h2>Projects</h2>
+    <div>
+        <div>
+
+            <h3>PRF Project</h3>
+            <span>Project 01</span>
+            <a href="">Link</a>
+            <p>Developed a console-based Java application for a Programming Fundamentals coursework.</p>
+        </div>
+
+        <div>
+
+            <h3>Tic Tac Toy Game</h3>
+            <span>Project 02</span>
+            <a href="">Link</a>
+            <p>This is a game that made using JavaFx and Java OOP concepts.</p>
+        </div>
+
+        <div>
+
+            <h3>OOP Project</h3>
+            <h5>Nihal Fresh Fruits</h5>
+            <span>Project 03</span>
+            <a href="">Link</a>
+            <p>This is a management system that made stand-alone application using JavaFx and Java OOP concepts for Nihal Fresh Fruits,</p>
+        </div>
+    </div>
+</section>
+
+<!--Assignment Section-->
+
+<section>
+    <h2>Assignment</h2>
+
+    <div>
+        <h3>Assignment 01</h3>
+        <h3>Assignment 02</h3>
+        <h3>Assignment 03</h3>
+        <h3>Assignment 04</h3>
+        <h3>Assignment 05</h3>
+        <h3>Assignment 06</h3>
+        <h3>Assignment 07</h3>
+        <h3>Assignment 08</h3>
+        <h3>Assignment 09</h3>
+        <h3>Assignment 10</h3>
+    </div>
+
+</section>
+
+
+<!--Gallery section-->
+
+<section>
+
+    <div>
+        <h2>GAllery</h2>
+
+        <img src="assests/images/1725886350133.png" title="Profisional" width="100">
+        <img src="assests/images/IMG_E3721.JPG" title="Profisional" width="100">
+        <img src="assests/images/IMG_E3729.JPG" title="Profisional" width="100">
+        <img src="assests/images/IMG_E8894.JPG" title="Profisional" width="100">
+        <img src="assests/images/IMG_E8901.JPG" title="Profisional" width="100">
+        <img src="assests/images/WhatsApp Image 2025-02-27 at 15.30.22_00a5cb0b.jpg" title="Profisional" width="100">
+        <img src="assests/images/WhatsApp Image 2025-02-27 at 15.30.23_f7f430ab.jpg" title="Profisional" width="100">
+        <img src="assests/images/WhatsApp Image 2025-02-27 at 15.30.24_5039b205.jpg" title="Profisional" width="100">
+        <img src="assests/images/WhatsApp Image 2025-02-27 at 15.30.24_5039b205.jpg" title="Profisional" width="100">
+        <img src="assests/images/WhatsApp Image 2025-02-27 at 15.30.25_3aed9484.jpg" title="Profisional" width="100">
+        <img src="assests/images/WhatsApp Image 2025-02-27 at 15.30.25_7d5437a3.jpg" title="Profisional" width="100">
+        <img src="assests/images/WhatsApp Image 2025-02-27 at 15.30.26_4b27508d.jpg" title="Profisional" width="100">
+
+    </div>
+
+
+
+</section>
+
+
+<!--Footer-->
+
+<section>
+    <footer>
+        <section>
+
+            <h2>Contact Me</h2>
+
+            <img src="assests/images/1725886350133.png" title="Profisional" width="100">
+
+            <!--left Side-->
+            <h3>Contact info</h3>
+
+
+            <dl>
+                <dt>Nisini Roshala</dt>
+                <dd>Lathpadura,Baduraliya.</dd>
+                <dd>0715135158</dd>
+                <dd>roshalanishini@gmail.com</dd>
+            </dl>
+
+            <!--right side-->
+            <img src="assests/images/WhatsApp Image 2025-01-24 at 16.35.31_083c2025.png" title="Profisional" width="100">
+
+            <p>Name</p>
+            <p>Mail</p>
+            <p>Massege</p>
+
+        </section>
+
+        <section>
+
+            <!--left side-->
+
+            <h3>Follow me </h3>
+            <p>Nishini Roshala
+                Create ❤ by Nishini Roshala
+            </p>
+
+            <!--right side-->
+            <img src="/assests/images/IMG_2802.JPG" title="Profisional" width="100">
+
+        </section>
+    </footer>
+</section>
+
+
+
+</body>
+</html>
