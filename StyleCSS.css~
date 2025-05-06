@@ -189,8 +189,24 @@ button:hover{
     cursor: pointer;
 }
 
+<!--------------------------project section------------------------------->
+
 .project{
     width: 100%;
-    padding: 100px ;
+    padding: 100px 0px;
     background-color: #101010;
+}
+
+.project h2{
+    margin-bottom: 30px;
+    color: white;
+    text-align: center;
+    font-size: 75px;
+}
+
+.project .box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
 }
