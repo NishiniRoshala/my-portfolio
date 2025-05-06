@@ -230,3 +230,16 @@ button:hover{
     margin: 25px 0;
     color: #f9004d;
 }
+
+h5{
+    color: white;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.pra p{
+    color: #f9004d;
+    font-size: 16px;
+    line-height: 27px;
+    margin-bottom: 25px;
+}
