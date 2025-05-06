@@ -77,7 +77,7 @@ nav ul li a:hover{
 
 h1{
     color: white;
-    margin: 20px 0px 20px;
+    margin: 20px 0 20px;
     font-size: 75px;
 }
 
@@ -117,15 +117,14 @@ h4{
     border-radius: 30px;
     background-color: #f9004d;
     color: white;
-    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
+    box-shadow: 0 0 5px #000, 0 0 15px #858585;
     top: 6px;
     right: 6px;
 }
 
-<!--------------------------about section------------------------------>
 .about{
     width: 100%;
-    padding: 100px 0px;
+    padding: 100px 0;
     background-color: #191919;
 }
 
@@ -189,24 +188,20 @@ button:hover{
     cursor: pointer;
 }
 
-<!--------------------------project section------------------------------->
+
 
 .project{
     width: 100%;
-    padding: 100px 0px;
+    padding: 100px 0;
     background-color: #101010;
 }
 
-.project h2{
-    margin-bottom: 30px;
+.title h2{
     color: white;
-    text-align: center;
     font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
 }
 
-.project .box{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 400px;
-}
+.box{
