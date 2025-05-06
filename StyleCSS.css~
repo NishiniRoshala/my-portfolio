@@ -228,5 +228,5 @@ button:hover{
     display: block;
     text-align: center;
     margin: 25px 0;
-    color: #f9004d;.3
+    color: #f9004d;
 }
