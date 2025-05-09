@@ -271,3 +271,14 @@ h5{
     font-weight: bold;
     margin-bottom: 25px;
 }
+
+.contact-me .button-two{
+    background-color: #f9004d;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+    transition: .4s;
+}
