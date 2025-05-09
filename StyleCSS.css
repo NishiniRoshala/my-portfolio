@@ -54,8 +54,8 @@ body{
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url("assests/images/pic1.jpg");
-    background-size: cover;
+    background-image: url("assests/images/MP3-removebg-preview.jpg");
+    background-size: contain;
     background-position: center;
 }
 
