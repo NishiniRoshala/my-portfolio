@@ -299,3 +299,10 @@ footer{
     align-items: center;
     justify-content: center;
 }
+
+footer p:nth-child(1){
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
