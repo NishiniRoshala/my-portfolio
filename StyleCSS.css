@@ -11,6 +11,22 @@
     outline: none;
 }
 
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+
+.root{
+    --bg-color: #f9004d;
+    --second-bg-color: #010101;
+    --text-color: #fff;
+    --second-color: #f9004d;
+    --main-color: #010101;
+    --big-font: 5.5rem;
+    --h2-font: 2.6rem;
+
+}
+
 body{
     background-color: #010101;
 }
