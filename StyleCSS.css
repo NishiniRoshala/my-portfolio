@@ -2,7 +2,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: "Poppins", Sans serif;
+    font-family: "Inter", Sans serif;
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
@@ -47,19 +47,19 @@
 /*}*/
 
 body{
-    background-color: #080808;
-    color: #fff;
-   /* background-image: url("assests/images/MP3-removebg-preview.jpg");*/
-
-}
-
-header{
-    width: 100%;
-    height: 100vh;
+    background-color: #101010;
+    /*color: #fff;*/
     background-image: url("assests/images/portfolio_main.jpg");
-    background-size: cover;
-    background-position: center;
+
 }
+
+/*header{*/
+/*    width: 100%;*/
+/*    height: 100vh;*/
+/*    background-image: url("assests/images/portfolio_main.jpg");*/
+/*    background-size: cover;*/
+/*    background-position: center;*/
+/*}*/
 
 
 .hero{
