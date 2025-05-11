@@ -47,8 +47,9 @@
 /*}*/
 
 body{
-    background-color: #010101;
-    background-image: url("assests/images/MP3-removebg-preview.jpg");
+    background-color: #080808;
+    color: #fff;
+   /* background-image: url("assests/images/MP3-removebg-preview.jpg");*/
 
 }
 
