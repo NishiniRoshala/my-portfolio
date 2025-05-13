@@ -239,6 +239,16 @@ h4{
     position: relative;
 }
 
+.tab-links::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    background: #f9004d;
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    transition: 0.5s;
+}
 button{
     background-color: #f9004d;
     color: white;
