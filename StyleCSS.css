@@ -231,6 +231,14 @@ h4{
     margin: 20px 0 40px;
 }
 
+.tab-links{
+    margin-right: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    position: relative;
+}
+
 button{
     background-color: #f9004d;
     color: white;
