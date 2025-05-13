@@ -173,6 +173,7 @@ h4{
     right: 6px;
 }
 
+/*---------------------------about--------------------------------*/
 .about{
     width: 100%;
     padding: 100px 0;
@@ -182,6 +183,7 @@ h4{
 .about img{
     height: auto;
     width: 430px;
+    border-radius: 15px;
 }
 
 .about-text{
@@ -240,7 +242,7 @@ button:hover{
 }
 
 
-
+/*----------------------project--------------------------------*/
 .project{
     width: 100%;
     padding: 100px 0;
@@ -305,6 +307,10 @@ h5{
     border-radius: 30px;
     transition: .4s;
 }
+
+
+/*-------------------------Contact me----------------------------------*/
+
 
 .contact-me{
     width: 100%;
