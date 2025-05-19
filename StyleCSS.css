@@ -470,6 +470,10 @@ h5{
     text-align: center;
 }
 
+.project:hover img{
+    transform: scale(1.1);
+}
+
 
 /*-------------------------Contact me----------------------------------*/
 
