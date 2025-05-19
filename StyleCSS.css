@@ -259,6 +259,11 @@ h4{
     margin: 10px 0;
 }
 
+.tab-contents ul li span{
+    color: #b54769;
+    font-size: 14px;
+}
+
 button{
     background-color: #f9004d;
     color: white;
