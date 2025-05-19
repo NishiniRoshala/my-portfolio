@@ -456,6 +456,19 @@ h5{
     margin-bottom: 20px;
 }
 
+.layer a{
+    margin-top: 20px;
+    color: #ff004f;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 60px;
+    background: #ffffff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+}
+
 
 /*-------------------------Contact me----------------------------------*/
 
