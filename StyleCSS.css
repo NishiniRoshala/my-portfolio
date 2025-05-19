@@ -331,6 +331,11 @@ button:hover{
     display: inline-block;
 }
 
+.services-list div:hover{
+    background: #ff004f;
+    transform: translateY(-10px);
+}
+
 /*----------------------project--------------------------------*/
 .project{
     width: 100%;
