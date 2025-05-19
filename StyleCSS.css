@@ -293,7 +293,6 @@ button:hover{
 
 #services{
     padding: 70px 0;
-
 }
 
 .services-list{
@@ -303,6 +302,14 @@ button:hover{
     margin-top: 50px;
 }
 
+.services-list div{
+    background: #262626;
+    padding: 40px;
+    font-size: 13px;
+    font-weight: 300;
+    border-radius: 10px;
+   
+}
 
 /*----------------------project--------------------------------*/
 .project{
