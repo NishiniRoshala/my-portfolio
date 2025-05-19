@@ -474,6 +474,10 @@ h5{
     transform: scale(1.1);
 }
 
+.project:hover .layer{
+    height: 100%;
+}
+
 
 /*-------------------------Contact me----------------------------------*/
 
