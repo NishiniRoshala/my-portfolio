@@ -448,6 +448,7 @@ h5{
     padding: 0 40px;
     text-align: center;
     font-size: 14px;
+    transition: height 0.5s;
 
 }
 
