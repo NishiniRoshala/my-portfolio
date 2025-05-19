@@ -490,6 +490,10 @@ h5{
     transition: background 0.5s;
 }
 
+.btn:hover{
+    background: #ff004f;
+}
+
 
 /*-------------------------Contact me----------------------------------*/
 
