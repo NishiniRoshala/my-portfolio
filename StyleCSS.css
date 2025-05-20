@@ -410,6 +410,7 @@ h5{
 
 .projectt{
     padding: 50px 0;
+
 }
 
 .projectt-list{
@@ -419,14 +420,25 @@ h5{
     margin-top: 50px;
 }
 
+/*.project {*/
+/*    display: flex;         !* or use grid depending on layout *!*/
+/*    flex-wrap: wrap;       !* allows wrapping for multiple items *!*/
+/*    gap: 20px;             !* space between images or projects *!*/
+/*    justify-content: center; !* center-align the items *!*/
+/*    align-items: center;   !* vertically align if needed *!*/
+/*    padding: 20px;*/
+/*}*/
+
 .project {
-    display: flex;         /* or use grid depending on layout */
-    flex-wrap: wrap;       /* allows wrapping for multiple items */
-    gap: 20px;             /* space between images or projects */
-    justify-content: center; /* center-align the items */
-    align-items: center;   /* vertically align if needed */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: repeat(2, auto); /* Force 2 lines */
+    gap: 20px;
     padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
 }
+
 
 .project img {
     width: 300px;
