@@ -419,26 +419,52 @@ h5{
     margin-top: 50px;
 }
 
-.project{
-    border-radius: 10px;
-    position: relative;
-    overflow: hidden;
+.project {
+    display: flex;         /* or use grid depending on layout */
+    flex-wrap: wrap;       /* allows wrapping for multiple items */
+    gap: 20px;             /* space between images or projects */
+    justify-content: center; /* center-align the items */
+    align-items: center;   /* vertically align if needed */
+    padding: 20px;
 }
 
 .project img {
-    width: 300px; /* Set desired width */
-    height: 200px; /* Set desired height */
-    object-fit: cover; /* Adjust how the image fits in the box */
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
-    background-size: contain;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* neat shadow */
+    margin: 0 auto; /* center the image inside its container */
 }
 
-/* Optional hover effect */
+/* Hover effect */
 .project img:hover {
     transform: scale(1.05);
 }
+
+
+/*.project{*/
+/*    border-radius: 10px;*/
+/*    position: relative;*/
+/*    overflow: hidden;*/
+/*}*/
+
+/*.project img {*/
+/*    width: 300px; !* Set desired width *!*/
+/*    height: 200px; !* Set desired height *!*/
+/*    object-fit: cover; !* Adjust how the image fits in the box *!*/
+/*    border-radius: 10px;*/
+/*    display: block;*/
+/*    transition: transform 0.5s;*/
+/*    background-size: contain;*/
+/*}*/
+
+/*!* Optional hover effect *!*/
+/*.project img:hover {*/
+/*    transform: scale(1.05);*/
+/*}*/
 
 
 /*.project img{*/
