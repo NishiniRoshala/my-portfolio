@@ -49,7 +49,7 @@
 body{
     background-color: #101010;
     /*color: #fff;*/
-    background-image: url("assests/images/portfolio_main.jpg");
+    /*background-image: url("assests/images/portfolio_main.jpg");*/
 
 }
 
@@ -428,15 +428,14 @@ h5{
 /*    align-items: center;   !* vertically align if needed *!*/
 /*    padding: 20px;*/
 /*}*/
-
 .project {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-template-rows: repeat(2, auto); /* Force 2 lines */
+    display: flex;
+    flex-wrap: wrap;
     gap: 20px;
+    justify-content: center;
     padding: 20px;
-    max-width: 1000px;
-    margin: 0 auto;
+    max-width: 650px; /* Adjust based on image width + gap */
+    margin: 0 auto;   /* Center the container */
 }
 
 
