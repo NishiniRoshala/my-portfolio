@@ -425,13 +425,29 @@ h5{
     overflow: hidden;
 }
 
-.project img{
-    width: 100%;
+.project img {
+    width: 300px; /* Set desired width */
+    height: 200px; /* Set desired height */
+    object-fit: cover; /* Adjust how the image fits in the box */
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
     background-size: contain;
 }
+
+/* Optional hover effect */
+.project img:hover {
+    transform: scale(1.05);
+}
+
+
+/*.project img{*/
+/*    width: 100%;*/
+/*    border-radius: 10px;*/
+/*    display: block;*/
+/*    transition: transform 0.5s;*/
+/*    background-size: contain;*/
+/*}*/
 
 .layer{
     width: 100%;
