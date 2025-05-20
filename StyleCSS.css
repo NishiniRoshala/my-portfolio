@@ -579,9 +579,13 @@ h5{
     margin-right: 15px;
     color: #ababab;
     display: inline-block;
-    
+
 }
 
+.social-icons a:hover{
+    color: #ff004f;
+    transform: translateY(-5px);
+}
 
 
 /*.contact-me{*/
