@@ -616,6 +616,23 @@ h5{
 }
 
 
+/* Overlay Caption */
+.gallery-item::before {
+    content: attr(data-caption);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+
 /*-------------------------Contact----------------------------------*/
 
 .contact-left{
