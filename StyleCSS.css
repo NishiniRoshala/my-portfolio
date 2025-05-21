@@ -479,6 +479,10 @@ button:hover{
     background-color: #ff004f;
 }
 
+.button i {
+    margin-right: 8px;
+}
+
 
 
 /*---------------------------Projects---------------------------*/
