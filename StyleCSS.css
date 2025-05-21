@@ -631,6 +631,10 @@ form .btn2{
     text-decoration: none;
 }
 
+.create i{
+    color: #ff004f;
+}
+
 
 /*.contact-me{*/
 /*    width: 100%;*/
