@@ -611,6 +611,11 @@ h5{
 }
 
 
+.gallery-item:hover img {
+    transform: scale(1.05);
+}
+
+
 /*-------------------------Contact----------------------------------*/
 
 .contact-left{
