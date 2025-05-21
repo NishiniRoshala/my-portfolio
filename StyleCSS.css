@@ -408,8 +408,11 @@ button:hover{
 
 /* -------------------Assignment Section CSS------------------------ */
 .assignment {
-    padding: 60px 20px;
-    background: #f0f4f8;
+    width: 100%;
+    padding: 100px 0;
+    background-color: #191919;
+    /*padding: 60px 20px;*/
+    /*background: #f0f4f8;*/
     text-align: center;
 }
 
