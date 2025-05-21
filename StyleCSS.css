@@ -432,7 +432,7 @@ button:hover{
 }
 
 .card {
-    background: #fff;
+    background: transparent;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     padding: 30px 20px;
@@ -452,7 +452,7 @@ button:hover{
 
 .card h5 {
     font-size: 22px;
-    color: #333;
+    color: #ffffff;
     margin-bottom: 15px;
 }
 
