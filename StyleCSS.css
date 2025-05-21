@@ -594,6 +594,7 @@ h5{
 
 .contact-right form{
     width: 100%;
+    float: right;
 }
 
 form input, form textarea{
