@@ -747,5 +747,16 @@ nav .fas{
         display: block;
         font-size: 25px;
     }
+
+    nav ul{
+        background: #f9004d;
+        position: fixed;
+        top: 0;
+        right: 0px;
+        width: 200px;
+        height: 100vh;
+        padding-top: 50px;
+       
+    }
 }
 
