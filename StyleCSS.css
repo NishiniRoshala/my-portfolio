@@ -728,7 +728,12 @@ form .btn2{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(assests/images/Phone Background.png);
+        background-image: url(assests/images/small-screen.png);
+    }
+
+    .header-text{
+        margin-top: 100%;
+        font-size: 16px;
     }
 }
 
