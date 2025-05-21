@@ -414,11 +414,12 @@ button:hover{
     /*padding: 60px 20px;*/
     /*background: #f0f4f8;*/
     text-align: center;
+    font-size: medium;
 }
 
 .assignment .title h2 {
     font-size: 36px;
-    color: #333;
+    color: #ffffff;
     font-weight: bold;
     margin-bottom: 40px;
 }
