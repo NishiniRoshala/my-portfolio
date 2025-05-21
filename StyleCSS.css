@@ -776,5 +776,10 @@ nav .fas{
     .sub-title{
         font-size: 40px;
     }
+
+    .about{
+        flex-direction: column;
+        flex-basis: 100%;
+    }
 }
 
