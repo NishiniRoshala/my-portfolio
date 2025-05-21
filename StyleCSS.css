@@ -594,7 +594,6 @@ h5{
 
 .contact-right form{
     width: 100%;
-    float: right;
 }
 
 form input, form textarea{
@@ -607,6 +606,13 @@ form input, form textarea{
     color: #fff;
     font-size: 18px;
     border-radius: 6px;
+}
+
+form .btn2{
+    padding: 14px 60px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
 }
 
 
