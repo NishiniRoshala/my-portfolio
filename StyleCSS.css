@@ -772,5 +772,9 @@ nav .fas{
         left: 25px;
         cursor: pointer;
     }
+
+    .sub-title{
+        font-size: 40px;
+    }
 }
 
