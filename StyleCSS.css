@@ -725,6 +725,9 @@ form .btn2{
 
 /*---------------------------------media Query(small Screen)-------------------------------------*/
 
+nav .fas{
+    display: none;
+}
 
 @media only screen and (max-width: 600px){
     #header{
