@@ -557,11 +557,15 @@ h5{
     transition: background-color 0.3s ease;
 }
 
-#gallery .sub-title {
-    font-size: 36px;
-    font-weight: bold;
-    color: #333;
-    margin-bottom: 40px;
+
+@media (prefers-color-scheme: dark) {
+    #gallery {
+        background-color: #1a1a1a;
+    }
+
+    #gallery .sub-title {
+        color: #eee;
+    }
 }
 
 .gallery-grid {
