@@ -722,3 +722,13 @@ form .btn2{
 /*    font-size: 14px;*/
 /*}*/
 
+
+/*---------------------------------media Query(small Screen)-------------------------------------*/
+
+
+@media only screen and (max-width: 600px){
+    #header{
+        background-image: url(assests/images/Phone Background.png);
+    }
+}
+
