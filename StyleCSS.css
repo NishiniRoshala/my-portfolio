@@ -587,6 +587,11 @@ h5{
     transform: translateY(-5px);
 }
 
+.btn.btn2{
+    display: inline-block;
+    background: #ff004f;
+}
+
 
 /*.contact-me{*/
 /*    width: 100%;*/
