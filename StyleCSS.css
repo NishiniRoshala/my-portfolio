@@ -593,13 +593,13 @@ button:hover{
 /* -------------------Projects Section CSS------------------------ */
 #projects {
     padding: 60px 20px;
-    background-color: #f4f4f4;
+    background-color: #000000;
 }
 
 #projects .sub-title {
     font-size: 36px;
     font-weight: bold;
-    color: #333;
+    color: #ffffff;
     text-align: center;
     margin-bottom: 40px;
 }
