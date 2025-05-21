@@ -626,6 +626,11 @@ form .btn2{
     font-size: 12px;
 }
 
+.create a{
+    color: #ff004f;
+    text-decoration: none;
+}
+
 
 /*.contact-me{*/
 /*    width: 100%;*/
