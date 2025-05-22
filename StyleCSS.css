@@ -801,6 +801,12 @@ button:hover{
     font-size: 16px;
 }
 
+@media (max-width: 768px) {
+    .row {
+        flex-direction: column;
+    }
+}
+
 
 
 /* -------------------Gallery Section CSS------------------------ */
